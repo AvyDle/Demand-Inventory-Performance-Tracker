@@ -1,0 +1,31 @@
+product_id,product_name,category,base_price,promotional_tier,demand_volatility,sales_events_count
+SKU0028,ASUS ROG Strix G15 Gaming Laptop RTX 4060 16GB,Gaming & Entertainment,34999,High,High,3
+SKU0029,PlayStation 5 Console Corporate Entertainment Package,Gaming & Entertainment,24999,High,High,3
+SKU0001,Dell Latitude 5540 Business Laptop Intel i7 16GB,Computers & Laptops,28999,High,Low,3
+SKU0002,HP EliteBook 850 G10 Business Laptop Intel i5 8GB,Computers & Laptops,24999,High,Low,3
+SKU0004,Dell Precision 3570 Mobile Workstation Intel i7 32GB,Computers & Laptops,45999,High,Low,3
+SKU0005,HP ZBook Firefly 14 G10 Mobile Workstation Intel i7 16GB,Computers & Laptops,39999,High,Low,3
+SKU0008,HP ProBook 450 G10 Business Laptop Intel i7 16GB,Computers & Laptops,26999,High,Low,3
+SKU0010,iPhone 15 Pro Corporate Bundle 256GB,Mobile & Smartphones,32999,High,Low,3
+SKU0012,iPad Pro 12.9-inch Business Bundle 256GB WiFi,Mobile & Smartphones,28999,High,Low,3
+SKU0019,Dell UltraSharp U2723QE 27-inch 4K Business Monitor,Displays & Audio Visual,12999,High,Low,3
+SKU0009,Samsung Galaxy S24 Business Edition 256GB,Mobile & Smartphones,24999,High,Medium,3
+SKU0011,Samsung Galaxy Tab S9 Business Tablet 11-inch 256GB,Mobile & Smartphones,18999,High,Medium,3
+SKU0014,iPhone 14 Business Edition 128GB,Mobile & Smartphones,23999,High,Medium,3
+SKU0015,Dell Universal Dock D6000 USB-C Docking Station,Accessories & Peripherals,8999,High,Medium,3
+SKU0021,Samsung LS32CG552 32-inch Curved QHD Business Monitor,Displays & Audio Visual,8999,High,Medium,3
+SKU0024,Synology DiskStation DS224+ 2-Bay NAS Business Storage,Networking & Storage,14999,High,Medium,3
+SKU0030,Apple Watch Series 9 GPS 45mm Business Bundle,Wearables & Smart Devices,12999,High,Medium,3
+SKU0025,TP-Link Archer AX73 Business WiFi 6 Router AX5400,Networking & Storage,2999,Low,High,3
+SKU0016,Logitech MX Master 3S Business Mouse Wireless,Accessories & Peripherals,1299,Low,Low,3
+SKU0026,Microsoft 365 Business Standard Annual License,Software & Licensing,2535,Low,Low,3
+SKU0013,Samsung Galaxy A54 5G Business Phone 128GB,Mobile & Smartphones,8999,Medium,High,3
+SKU0020,LG UltraFine 27US500-W 27-inch 4K Business Display,Displays & Audio Visual,5579,Medium,Low,3
+SKU0022,Dell P2423D 24-inch QHD Business Monitor,Displays & Audio Visual,6999,Medium,Low,3
+SKU0027,Microsoft Office Home & Business 2024 Perpetual License,Software & Licensing,4087,Medium,Low,3
+SKU0003,Lenovo ThinkPad E14 Gen 5 Business Laptop AMD Ryzen 5,Computers & Laptops,19999,Medium,Medium,3
+SKU0006,Lenovo ThinkPad L14 Gen 4 Business Laptop Intel i5 16GB,Computers & Laptops,22999,Medium,Medium,3
+SKU0007,Dell Inspiron 3520 Business Laptop Intel i5 8GB,Computers & Laptops,17999,Medium,Medium,3
+SKU0017,Microsoft Surface Pro Type Cover Business Keyboard,Accessories & Peripherals,3999,Medium,Medium,3
+SKU0018,Jabra Evolve2 65 Business Wireless Headset,Accessories & Peripherals,4999,Medium,Medium,3
+SKU0023,ASUS RT-AX6000 Business WiFi 6 Router AX6000,Networking & Storage,6999,Medium,Medium,3
