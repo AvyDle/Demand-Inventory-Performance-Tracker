@@ -1,4 +1,4 @@
-# 📊 **S&OP Demand & Inventory Performance Tracker**
+# **S&OP Demand & Inventory Performance Tracker**
 ## *AD Solutions Sales & Operations Planning | R87M+ Operations Intelligence | 87.1% Forecast Accuracy*
 
 <div align="center">
